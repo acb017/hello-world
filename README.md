@@ -1,2 +1,4 @@
 # hello-world
 learning GitHub
+
+Alane Boyd has worked for GoFanbase, a software company building mobile and web applications for the past six years, and more recently NodeGurus, a site focused and helping more Node.js developers find their dream job. She serves on the Board of Directors for the Upper Cumberland Entrepreneurial Foundation and 100 Girls of Code, a national nonprofit encouraging more girls to have an interest in STEM. She has spoken at conferences such as SXSW. She has developed expert processes for hiring software developers, project managers and UX/UI developers. Her expertise range from building company culture to analyzing developer capabilities through the interview process. Her passion has become educating developers on how to get hired and overcome poor resumes and applications.
